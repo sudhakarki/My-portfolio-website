@@ -354,7 +354,7 @@ section{
 }
 
 .skill-graph .boxes .boxsize .percent3{
-    width: 100%;
+    width: 90%;
     background-color: #4b556b;
     border-radius: 20px;
     border: 1px solid #FFC5C5;
